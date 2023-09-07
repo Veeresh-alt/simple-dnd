@@ -1,6 +1,6 @@
 {
   "name": "kali-dnd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "creating a simple drag and drop without more complex.",
   "main": "src/index.js",
   "scripts": {
