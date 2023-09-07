@@ -1,0 +1,31 @@
+{
+  "name": "kali-dnd",
+  "version": "0.0.1",
+  "description": "creating a simple drag and drop without more complex.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Veeresh-alt/simple-dnd.git"
+  },
+  "keywords": [
+    "simple",
+    "drag",
+    "and",
+    "drop",
+    "react",
+    "drag",
+    "and",
+    "drop",
+    "react-dnd",
+    "simple-dnd."
+  ],
+  "author": "Veeresh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Veeresh-alt/simple-dnd/issues"
+  },
+  "homepage": "https://github.com/Veeresh-alt/simple-dnd#readme"
+}
