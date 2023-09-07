@@ -1,6 +1,6 @@
 {
   "name": "kali-dnd",
-  "version": "0.0.2",
+  "version": "0.0.6",
   "description": "creating a simple drag and drop without more complex.",
   "main": "src/index.js",
   "scripts": {
@@ -11,14 +11,8 @@
     "url": "git+https://github.com/Veeresh-alt/simple-dnd.git"
   },
   "keywords": [
-    "simple",
-    "drag",
-    "and",
-    "drop",
-    "react",
-    "drag",
-    "and",
-    "drop",
+    "simple drag and drop",
+    "react drag and drop",
     "react-dnd",
     "simple-dnd."
   ],
